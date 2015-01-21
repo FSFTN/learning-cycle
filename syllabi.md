@@ -24,6 +24,19 @@ You could learn Python, R for mathematical and statistical processing, GNUOctave
 ## Ruby 
 
 ## Python
+- Python basic rules
+- Interpreter
+- Python shell
+- Scripting
+- Datatypes, Operators, operands, etc.
+- Basic math
+- String manipulation
+- Lists, Tuples, dicts
+- Conditionals and looping
+- Functions
+- Classes 
+- Generators
+- API Programming (AWS, REST)
 
 ## Django / Flask
 
@@ -31,6 +44,17 @@ You could learn Python, R for mathematical and statistical processing, GNUOctave
 
 ## PostGRE SQL
 
+- Database concepts
+- Adding, removing databases, tables
+- Inserting, Querying, updating rows
+- Sharding, replication
+- Foreign keys
+- Triggers and functions
+
 ## MongoDB
 
-
+- MongoDB concepts
+- Document database concepts
+- Sharding
+- Replication
+- Clusters and schemes
