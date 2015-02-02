@@ -14,16 +14,20 @@ You could learn Python, R for mathematical and statistical processing, GNUOctave
 
 ### What should I learn if I'm a ..?
 
+### 1. System Programming
 
-## GIT
+#### a. Shell Scripting
+
+#### b. GIT
 - What is distributed version control system?
 - Why do we need version control system?
 - What are the different version control systems available?
 - Why GIT?
 
-## Ruby 
 
-## Python
+#### c. Ruby 
+
+#### d. Python
 - Python basic rules
 - Interpreter
 - Python shell
@@ -38,11 +42,22 @@ You could learn Python, R for mathematical and statistical processing, GNUOctave
 - Generators
 - API Programming (AWS, REST)
 
-## Django / Flask
+#### e. Learning to Use GCC (C Programming)
 
-## Ruby on Rails
+-------
 
-## PostGRE SQL
+### 2. Web Development
+
+#### a. Django / Flask
+
+
+#### b. Ruby on Rails
+
+-------
+
+### 3. Database Administration
+
+#### a. PostGRE SQL
 
 - Database concepts
 - Adding, removing databases, tables
@@ -51,10 +66,24 @@ You could learn Python, R for mathematical and statistical processing, GNUOctave
 - Foreign keys
 - Triggers and functions
 
-## MongoDB
+
+#### b. MongoDB
 
 - MongoDB concepts
 - Document database concepts
 - Sharding
 - Replication
 - Clusters and schemes
+
+-------
+
+### 4. Smartphone Application Development
+
+#### a. Android Application Development
+
+- Native application development (Java based).
+- Hybrid application development (Native + Web based HTML + CSS + JS)
+
+#### b. FirefoxOS Application Development
+
+-------
